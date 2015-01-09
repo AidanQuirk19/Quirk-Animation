@@ -24,6 +24,7 @@ class Spaceship extends Actor {
       fill (fillRed, fillGreen, fillBlue);
       stroke (penRed, penGreen, penBlue);
       triangle (182, 450, 232, 450, 207, 350);
+
      }
      
      public void move () {
